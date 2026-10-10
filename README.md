@@ -75,7 +75,7 @@ connect it.
 Tasks live at [tasks.koli-bg.com](https://tasks.koli-bg.com), a small service
 by the same person who makes IzoMailer, and it's free to use: sign in there,
 create an API token, and paste it into IzoMailer under **⋯ → Tasks settings…**.
-Workspaces can be shared with a few people (a free workspace holds up to 20
+Workspaces can be shared with a few people (a free workspace holds up to 10
 open tasks and 3 members).
 
 ![The Tasks view in IzoMailer](https://izomailer.koli-bg.com/img/desktop-tasks.png)
