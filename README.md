@@ -7,6 +7,8 @@ servers: your email goes only between your device and your mail provider.
 **Website:** https://izomailer.koli-bg.com ·
 **Privacy policy:** https://izomailer.koli-bg.com/privacy/
 
+![IzoMailer on Linux: two accounts, the inbox with unread mail in bold, an open message](https://izomailer.koli-bg.com/img/desktop-light.png)
+
 This repository holds IzoMailer's **downloads** ([Releases](https://github.com/Izopi4a/izomailer/releases))
 and its **issue tracker**. The source code is not public.
 
@@ -63,6 +65,20 @@ app that hasn't been through Google's (paid, yearly) verification. Choose
 limited number of users; if sign-in is refused, use an
 [app password](https://myaccount.google.com/apppasswords) instead (pick Gmail
 in the sign-in dialog).
+
+## Tasks (optional)
+
+IzoMailer can turn any email into a task, with a link back to the email, and
+show your tasks by status next to your mail. It stays out of the way until you
+connect it.
+
+Tasks live at [tasks.koli-bg.com](https://tasks.koli-bg.com), a small service
+by the same person who makes IzoMailer, and it's free to use: sign in there,
+create an API token, and paste it into IzoMailer under **⋯ → Tasks settings…**.
+Workspaces can be shared with a few people (a free workspace holds up to 20
+open tasks and 3 members).
+
+![The Tasks view in IzoMailer](https://izomailer.koli-bg.com/img/desktop-tasks.png)
 
 ## Feedback
 
